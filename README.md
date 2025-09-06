@@ -1,7 +1,7 @@
-## 👋 Hi there, I'm Piyush [piyushvats.netlify.app]
+## 👋 Hi there, I'm Piyush
 
 
-[![Linkedin: Piyushvats](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushvats)](https://www.linkedin.com/in/piyushvats/)
+[![Linkedin: Piyushvats](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushvats)](https://www.linkedin.com/in/piyushvats/)
 
 <img align="right" width="400px" height="250px" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 🏫 I'm a CSE student at Bhagwan Parshuram Institute Of Technology (INDIA) <br/>
@@ -37,7 +37,12 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=v041tvjlmqbtnkvjuxx58vrq6&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Piyush00715.Piyush00715&left_color=black&right_color=seagreen"  />
 
-[website]:piyushvats.netlify.app
-[linkedin]: https://www.linkedin.com/in/piyushvats/
+<div align="left">
+  <a href="https://www.linkedin.com/in/piyushvats/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="piyushvats.netlify.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
