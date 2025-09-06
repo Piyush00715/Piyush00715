@@ -31,7 +31,7 @@
 <!-- <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
 
 ---
-<img src="https://raw.githubusercontent.com/Piyush00715/Piyush00715/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Piyush00715/Piyush00715/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <a href="https://open.spotify.com/user/v041tvjlmqbtnkvjuxx58vrq6">
