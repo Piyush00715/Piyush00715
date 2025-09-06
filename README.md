@@ -31,6 +31,7 @@
 <!-- <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
 
 ---
+<img src="https://raw.githubusercontent.com/Piyush00715/Piyush00715/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <a href="https://open.spotify.com/user/v041tvjlmqbtnkvjuxx58vrq6">
@@ -43,6 +44,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="piyushvats.netlify.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
